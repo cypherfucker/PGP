@@ -9,7 +9,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Cypherfucker - Secure Encryption Tool",
+  title: "PGP - Cypherfucker",
   description:
     "Generate PGP keys, encrypt and decrypt messages completely offline. Your keys never leave your browser.",
 

@@ -10,7 +10,7 @@ export function AppHeader() {
           <Image src="/favicon.png" alt="PGP icon" width={32} height={32} className="h-8 w-8" />
           <div>
             <h1 className="text-xl font-bold text-foreground">PGP</h1>
-            <p className="text-xs text-muted-foreground">v1.0.0</p>
+            <p className="text-xs text-muted-foreground">v1.0.4</p>
           </div>
         </div>
 
